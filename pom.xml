@@ -9,10 +9,9 @@
     <version>1.0-SNAPSHOT</version>
 
     <parent>
-        <groupId>com.undancer.breath</groupId>
         <artifactId>breath-bom</artifactId>
+        <groupId>com.undancer.breath</groupId>
         <version>1.0-SNAPSHOT</version>
-        <relativePath>../bom</relativePath>
     </parent>
 
 
